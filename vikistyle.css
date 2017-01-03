@@ -1,0 +1,23 @@
+ <style>
+ <style>
+.nav-wrapper {}
+	body{
+background: #8e9eab; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #8e9eab , #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #8e9eab , #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+	
+	
+		.mySlides {display:none;}
+.autoimg{border:2px solid;padding:1px;border-style:double soft;border-color:#263238;}
+        
+	a{color:#cfd8dc;text-align:center;font-family:times new roman;font-weight:bold;font-size:20px}
+h1{color:black;text-align:left;font-family:times new roman;font-weight:bold;font-size:20px;margin-left:20px;text-decoration: underline}
+h2{color:#00838f;text-align:center;font-family:times new roman;font-weight:bold;font-size:25px}
+ul{color:#00838f;text-align:center;font-family:times new roman;font-weight:bold;font-size:25px}
+li{color:#cfd8dc ;text-align:left;font-family:calibri;font-size:20px}
+p{color:#37474f;text-align:justify;font-family:times new roman;font-style:bold;font-size:18px;margin-right:20px;margin-left:20px; border-color:#ef5350;border-width: .25em;} 
+h4{color:#00838f;text-align:center;font-style:bold;font-size:10px} 
+h5{color:black;font-size:20px} 
+h6{color:#eceff1;text-align:center;font-family:calibris;font-weight:bold;font-size:5px}   
+    </style>
